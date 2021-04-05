@@ -1,8 +1,8 @@
 # DC_Miniproject-Group-10
 
-This project is part of Distributed Computing Performed by Priyanka Awatramani, Sartha Tambe and Sneha Lalwani under the guidance of Mrs. Nupur Giri
-
 Use of Embedded RPC based service communication for Microkernel RTOS  Architecture
+
+This project is part of Distributed Computing Performed by Priyanka Awatramani, Sartha Tambe and Sneha Lalwani under the guidance of Mrs. Nupur Giri
 
 We have implemented its application i.e CPU scheduling algorithms using RPC. Here, the server will act as a microkernel and it will schedule the processes and send back the waiting time to the client. 
 
